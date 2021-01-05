@@ -1,0 +1,15 @@
+C:\Users\haith\source\repos\Music Player\Music Player\bin\Debug\Music Player.exe.config
+C:\Users\haith\source\repos\Music Player\Music Player\bin\Debug\Music Player.exe
+C:\Users\haith\source\repos\Music Player\Music Player\bin\Debug\Music Player.pdb
+C:\Users\haith\source\repos\Music Player\Music Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\haith\source\repos\Music Player\Music Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\haith\source\repos\Music Player\Music Player\obj\Debug\Music Player.csprojAssemblyReference.cache
+C:\Users\haith\source\repos\Music Player\Music Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\haith\source\repos\Music Player\Music Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\haith\source\repos\Music Player\Music Player\obj\Debug\Music Player.csproj.ResolveComReference.cache
+C:\Users\haith\source\repos\Music Player\Music Player\obj\Debug\Music_Player.MusicPlayerApp.resources
+C:\Users\haith\source\repos\Music Player\Music Player\obj\Debug\Music_Player.Properties.Resources.resources
+C:\Users\haith\source\repos\Music Player\Music Player\obj\Debug\Music Player.csproj.GenerateResource.cache
+C:\Users\haith\source\repos\Music Player\Music Player\obj\Debug\Music Player.csproj.CoreCompileInputs.cache
+C:\Users\haith\source\repos\Music Player\Music Player\obj\Debug\Music Player.exe
+C:\Users\haith\source\repos\Music Player\Music Player\obj\Debug\Music Player.pdb
